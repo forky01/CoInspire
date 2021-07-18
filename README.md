@@ -1,4 +1,4 @@
-# usnw_csec_hackathon
+# usnw_csesoc_hackathon
 
 A new Flutter application.
 
